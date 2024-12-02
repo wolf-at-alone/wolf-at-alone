@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wolf-at-alone&show_icons=true&locale=en&layout=compact" alt="wolf-at-alone" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wolf-at-alone&show_icons=true&locale=en" alt="wolf-at-alone" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wolf-at-alone&show_icons=true&locale=en" alt="wolf-at-alone" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=wolf-at-alone&" alt="wolf-at-alone" /></p>
 
