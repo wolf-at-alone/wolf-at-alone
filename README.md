@@ -1,7 +1,7 @@
 ﻿# wolf-at-alone
 
 <h1 align="center">Hi 👋, I'm Charaka Hashan</h1>
-<h3 align="center">A passionate Web developer from Sri Lanks</h3>
+<h3 align="center">A passionate Web developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wolf-at-alone&label=Profile%20views&color=0e75b6&style=flat" alt="wolf-at-alone" /> </p>
 
