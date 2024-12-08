@@ -1,6 +1,6 @@
 <!--﻿ # wolf-at-alone --!>
 
-<h1 align="center">Hi 👋, I'm _Charaka Hashan_ </h1>
+<h1 align="center">Hi 👋, I'm Charaka Hashan </h1>
 <h3 align="center">A passionate Web developer from Sri Lanka</h3>
 <br/>
 
