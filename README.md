@@ -4,14 +4,18 @@
 <h3 align="center">A passionate Web developer from Sri Lanka</h3>
 <br/>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" height="250px" alt="Pudgy Penguin GIF">
+  <br>
+ <!--  <a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a> -->
+</p>
+
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wolf-at-alone&label=Profile%20views&color=0e75b6&style=flat" alt="wolf-at-alone" /> </p>
 <br/>
 
-<div align="center">
-  <img height="200" src="https://giphy.com/embed/RbDKaczqWovIugyJmW"  />
-</div>
 
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wolf-at-alone" alt="wolf-at-alone" /></a> </p>
 
@@ -32,6 +36,15 @@
 
 <br/>  
 
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Monday Computer GIF">
+  <br>
+  <!-- <a href="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9">via GIPHY</a>-->
+</p>
+
+<br/>
 
 ## My Skill Set  
 
