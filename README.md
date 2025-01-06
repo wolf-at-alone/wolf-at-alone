@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 👯 I’m looking to collaborate on **any open source project**
+- 👯 I’m looking to collaborate on **any open source **
 
 - 👨‍💻 All of my projects are available at [here](here)
 
