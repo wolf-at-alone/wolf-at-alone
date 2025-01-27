@@ -27,7 +27,7 @@
 
 - 👯 I’m looking to collaborate on **any open source project**
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available at [here]
 
 - 📫 How to reach me **here**
 
